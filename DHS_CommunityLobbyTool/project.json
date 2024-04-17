@@ -1,5 +1,6 @@
 {
   "name": "DHS_CommunityLobbyTool",
+  "projectId": "2497ee8e-e776-441a-8798-b6ec7196a861",
   "description": "Automate testing of CLT",
   "main": "Main.xaml",
   "dependencies": {
@@ -43,7 +44,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "saveToCloud": false
   },
   "expressionLanguage": "CSharp",
   "entryPoints": [
